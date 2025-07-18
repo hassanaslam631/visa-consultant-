@@ -1,11 +1,13 @@
-# Visa Consultant
+# Visa Consultant Demo Site
 
-This repository contains a simple static website for a hypothetical visa consultant service.
+This repository contains a demo website for a visa consulting service aimed at Pakistani clients.
+It highlights common destinations such as the UK, Canada, Australia and others. The company plans
+to operate offices in Dubai, England, Lahore, and the USA.
 
 The site includes:
 
 - `index.html` &ndash; the home page
-- `about.html` &ndash; additional information about the service
-- `styles.css` &ndash; basic styling
+- `about.html` &ndash; more information about the service
+- `styles.css` &ndash; styling for the pages
 
-Open `index.html` in your browser to view the site.
+Open `index.html` in your browser to view the demo.

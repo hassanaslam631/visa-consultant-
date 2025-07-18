@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #0073e6;
     color: #fff;
     padding: 1em;
     text-align: center;
@@ -16,6 +16,22 @@ nav a {
     color: #fff;
     text-decoration: none;
     margin: 0 0.5em;
+}
+
+.hero {
+    background-color: #f0f8ff;
+    padding: 2em;
+    text-align: center;
+}
+
+.features,
+.offices {
+    margin: 1em 0;
+}
+
+.features ul {
+    list-style: disc inside;
+    padding: 0;
 }
 
 main {
